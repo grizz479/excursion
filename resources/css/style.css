@@ -19,8 +19,12 @@ header a {
     font-size: 16px;
 }
 
+div {
+    text-align:center;
+}
+
 #content {
     display: flex;
     justify-content: center;
-    
+
 }
