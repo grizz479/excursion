@@ -1,16 +1,16 @@
-nav {
+header {
     background-color: black;
     text-align: center;
 }
 
-nav h1 {
+header h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 50px;
     color: white;
        
 }
 
-nav a {
+header a {
     color: aquamarine;
     font-size: 16px;
 }
