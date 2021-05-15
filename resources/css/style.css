@@ -1,5 +1,9 @@
-header {
+html {
     background-color: black;
+}
+
+header {
+    
     text-align: center;
 }
 
@@ -13,4 +17,10 @@ header h1 {
 header a {
     color: aquamarine;
     font-size: 16px;
+}
+
+#content {
+    display: flex;
+    justify-content: center;
+    
 }
